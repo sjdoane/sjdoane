@@ -15,6 +15,10 @@ My work spans reinforcement learning, MuJoCo simulation, motion retargeting, and
 | [PIT Backtest](https://github.com/sjdoane/pit-backtest) | A point-in-time equity research framework with leakage checks, explicit cost assumptions, and reproducible figures. |
 | [Pendulum Drag Extraction](https://github.com/sjdoane/pendulum-drag-extraction) | A team experiment estimating drag from pendulum decay, with MATLAB analysis, apparatus details, figures, and the report. |
 
+## Open source
+
+My [Viser contribution](https://github.com/viser-project/viser/pull/791) adds a browser regression for a skinned-mesh cleanup crash and was merged with the maintainer's broader lifecycle fix.
+
 **Tools I work with:** Python, C++, TypeScript, PyTorch, MuJoCo/MJX, JAX, React, FastAPI, MATLAB, and CAD.
 
 I'm interested in robot learning, simulation, and practical tools that make experiments easier to reproduce and understand.
