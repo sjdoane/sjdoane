@@ -19,6 +19,8 @@ My work spans reinforcement learning, MuJoCo simulation, motion retargeting, and
 
 My [Viser contribution](https://github.com/viser-project/viser/pull/791) adds a browser regression for a skinned-mesh cleanup crash and was merged with the maintainer's broader lifecycle fix.
 
+My merged [PyRoboPlan contribution](https://github.com/sea-bass/pyroboplan/pull/129) preserves inverse-kinematics targets and Cartesian planning state.
+
 **Tools I work with:** Python, C++, TypeScript, PyTorch, MuJoCo/MJX, JAX, React, FastAPI, MATLAB, and CAD.
 
 I'm interested in robot learning, simulation, and practical tools that make experiments easier to reproduce and understand.
